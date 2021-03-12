@@ -126,7 +126,8 @@ another_folder = 'y';
 list_folder = []
 input_path = "./"
 
-initial_dir = '/media/user/storage/Data/(4) Optic nerve project/Optic Nerve/EAE_miR_AAV2/'
+#initial_dir = '/media/user/storage/Data/(4) Optic nerve project/Optic Nerve/EAE_miR_AAV2/'
+initial_dir = './'
 
 #input_path = "/Users/Neuroimmunology Unit/Anaconda3/AI stuff/MyelinUNet/Source/"
 while(another_folder == 'y'):
