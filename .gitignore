@@ -1,0 +1,5 @@
+check_*
+*.png
+*.pyc
+*.jpg
+*.pth
